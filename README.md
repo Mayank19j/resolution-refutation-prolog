@@ -9,6 +9,6 @@ preferably, swipl as the given files are tested against swipl-prolog-interpreter
 ##  Execution
 If you are using swipl interpreter, execute swipl\
 and then write\
-? \[resolution]. <press Enter>\
-? start. <press Enter>\
+? \[resolution]. \<press Enter>\
+? start. \<press Enter>\
 to get the instructions.

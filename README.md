@@ -14,4 +14,4 @@ and then write\
 to get the instructions.
 
 ## Better understanding of process
-For the better understanding of the process going on durng execution and how the antecedents and consequents are getting processed, uncomment all the comments in the program, you can easily do this by using find and replace.
+For the better understanding of the process going on durng execution and to understand how the antecedents and consequents are getting processed, uncomment all the comments in the program, you can easily do this by using find and replace, and then re-execute.

@@ -1,5 +1,5 @@
 # Resolution-refutation-prolog
-resolution refutation is method of finding whether the given logic (propositional logic here) is consistent or inconsistent, whether it is valid (tautology) or not.\
+resolution refutation is method of finding whether the given antecedent implies the consequent or not, it could also be used to check validity of the expressions.\
 Resolution refutation method is just refutation complete.
 
 ## Pre-Requirement
@@ -12,3 +12,6 @@ and then write\
 ? \[resolution]. \<press Enter>\
 ? start. \<press Enter>\
 to get the instructions.
+
+## Better understanding of process
+For the better understanding of the process going on durng execution and how the antecedents and consequents are getting processed, uncomment all the comments in the program, you can easily do this by using find and replace.
